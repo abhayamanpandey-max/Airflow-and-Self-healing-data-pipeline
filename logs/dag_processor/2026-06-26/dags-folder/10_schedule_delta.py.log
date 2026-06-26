@@ -208,3 +208,11 @@
 {"timestamp":"2026-06-26T06:33:14.511220Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-06-26T06:33:45.098616Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-06-26T06:34:16.003099Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:34:46.294237Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:35:16.995518Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:35:48.011794Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:36:18.500372Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:36:48.895169Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:37:19.755163Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:37:50.222897Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:38:21.076275Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/10_schedule_delta.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}

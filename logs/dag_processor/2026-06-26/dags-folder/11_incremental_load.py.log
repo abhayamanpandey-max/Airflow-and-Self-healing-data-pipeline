@@ -208,3 +208,11 @@
 {"timestamp":"2026-06-26T06:33:11.026874Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-06-26T06:33:41.502615Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-06-26T06:34:12.381693Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:34:42.901746Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:35:13.528079Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:35:44.515675Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:36:15.019126Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:36:45.548233Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:37:16.172136Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:37:47.293939Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-06-26T06:38:17.681903Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/11_incremental_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
